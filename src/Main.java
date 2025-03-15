@@ -5,5 +5,6 @@ public class Main {
         System.out.println("Hello, IDEA!");
         System.out.println("Hello, Branch!");
         System.out.println("Hello, Push");
+        System.out.println("Hello, Pull");
     }
 }
